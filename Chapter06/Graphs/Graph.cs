@@ -247,6 +247,7 @@ namespace Graphs
             distances[source.Index] = 0;
 
             SimplePriorityQueue<Node<T>> nodes = new SimplePriorityQueue<Node<T>>();
+            //Queue<Node<T>> nodes = new Queue<Node<T>>();
             for (int i = 0; i < Nodes.Count; i++)
             {
                 nodes.Enqueue(Nodes[i], distances[i]);

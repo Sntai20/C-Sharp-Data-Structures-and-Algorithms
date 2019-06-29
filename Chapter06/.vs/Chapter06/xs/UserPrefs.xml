@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{176C686E-3FFC-4A5D-B3B7-68B9A97ED39C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Graphs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Graphs/Graph.cs">
+    <Files>
+      <File FileName="Graphs/Program.cs" Line="1" Column="1" />
+      <File FileName="Graphs/Graph.cs" Line="255" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chapter06" expanded="True">
+            <Node name="Cable" expanded="True" />
+            <Node name="GameMap" expanded="True" />
+            <Node name="Graphs" expanded="True">
+              <Node name="Graph.cs" selected="True" />
+            </Node>
+            <Node name="VoivodeshipMap" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Cable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

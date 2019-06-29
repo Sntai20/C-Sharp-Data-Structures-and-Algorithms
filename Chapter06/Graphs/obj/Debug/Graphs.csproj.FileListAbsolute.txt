@@ -1,0 +1,11 @@
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/obj/Debug/Graphs.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/obj/Debug/Graphs.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Graphs.exe.config
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Graphs.exe
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Graphs.pdb
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Priority Queue.dll
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Priority Queue.pdb
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/bin/Debug/Priority Queue.xml
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/obj/Debug/Graphs.csproj.CopyComplete
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/obj/Debug/Graphs.exe
+/Users/antonio/Documents/GitHub/C-Sharp-Data-Structures-and-Algorithms/Chapter06/Graphs/obj/Debug/Graphs.pdb
